@@ -7,12 +7,243 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/textView"
+        android:layout_width="332dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="52dp"
+        android:lineSpacingExtra="24sp"
+        android:textAlignment="textEnd"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TableLayout
+        android:layout_width="395dp"
+        android:layout_height="487dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="1"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="2"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="3"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/buttonPlus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="+"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="4"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="5"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="6"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/buttonMinus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="-"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="7"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="8"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="9"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/buttonMultiply"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="*"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="0"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/buttonTenth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text=","
+                android:textAlignment="center"
+                android:textSize="48sp" />
+
+            <Button
+                android:id="@+id/buttonAnsware"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="="
+                android:textAlignment="center"
+                android:textSize="48sp"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetBottom="5dp"
+                android:insetRight="5dp" />
+
+            <Button
+                android:id="@+id/buttonDevide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:text="/"
+                android:textAlignment="center"
+                android:textSize="48sp" />
+        </TableRow>
+
+    </TableLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
