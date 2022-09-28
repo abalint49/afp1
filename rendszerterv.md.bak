@@ -49,7 +49,6 @@
 | K4 | ... | ... |
 
 ### Támogatott eszközök
-	Android Studio
 
 ## 5. Funkcionális terv
 
@@ -66,12 +65,17 @@
 ### Fizikai alrendszerek
 
 ### Fejlesztő eszközök
-	Android Studio
 
 
 ## 8. Architekturális terv
 
+### Webszerver
+
+### Adatbázis rendszer
+
 ### A program elérése, kezelése
+
+## 9. Adatbázis terv
 
 ## 10. Implementációs terv
 
