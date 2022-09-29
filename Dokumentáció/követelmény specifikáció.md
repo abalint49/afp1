@@ -6,6 +6,8 @@ Az alkalmazás célja, hogy ne kelljen feljben számolnunk, ezáltal megkönnyí
 
 ## 2. A jelenlegi helyzet leírása
 
+Az oktatásért felelős szervek hierarchikus rendszerében legalul foglalnak helyet az iskolák. Ebből adódóan mi kifejlesztettük az iskolák segítésére ezt az alkalmazást a tanárok és diákok részére egyaránt.
+
 ## 3. Vágyálomrendszer
 
 ## 4. Jelenlegi üzleti folyamatok modellje
