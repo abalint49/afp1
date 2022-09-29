@@ -108,9 +108,9 @@ Szoftver telepítési terv:
 ## 13. Karbantartási terv
 
 Fontos ellenőrizni:\
-\
+
 - Például hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás.
- Idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
+Idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
 
 Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
 Ha hibát talált, mielőbb orvosolni kell, lehet az:
