@@ -107,7 +107,7 @@ Szoftver telepítési terv:
 
 ## 13. Karbantartási terv
 
-Fontos ellenőrizni:\
+Fontos ellenőrizni:
 
 - Például hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás.
 Idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
