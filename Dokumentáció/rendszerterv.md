@@ -103,7 +103,11 @@ például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával 
 
 Fizikai telepítési terv: 
 
-Szoftver telepítési terv: 
+Szoftver telepítési terv:
+
+1. Adja meg a szükséges engedélyeket az Android rendszerben (Beállítások -> Biztonság -> Ismeretlen források)
+2. Csatlakoztassa a mobilkészüléket a számítógéphez egy adatkábel segítségével. Ezután elképzelhető, hogy a telefon értesítési felületén engedélyezni kell az adatátvitelt. Majd ezt követően másolja a telefon egy tetszőleges mappájába a letöltött APK fájlt.
+3. Nyissa meg a telefon fájlkezelőjét, és keresse meg a könyvtárat, amelybe a fájlt másolta. Ezután bökjön az APK fájlra, majd válassza a Telepítés opciót.
 
 ## 13. Karbantartási terv
 
