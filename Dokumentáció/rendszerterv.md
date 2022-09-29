@@ -109,8 +109,8 @@ Szoftver telepítési terv:
 
 Fontos ellenőrizni:
 
-- Például hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás.
-Idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
+- Például hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás.\
+Illetve idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
 
 Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
 Ha hibát talált, mielőbb orvosolni kell, lehet az:
