@@ -1,6 +1,8 @@
 # Követelmény specifikáció
 
-## 1. Áttekintés
+## 1. Áttekintés 
+
+Az alkalmazás célja, hogy ne kelljen feljben számolnunk, ezáltal megkönnyítse a mindennapi életünket. Az alkalmazásunk android felülettel rendelkezik, elérhető az összes felhasználói funkció rajta. Megtalálható benne az összes alapfunkció (+, -, *, /), valamint további műveletek is megtalálhatóak benne. 
 
 ## 2. A jelenlegi helyzet leírása
 
