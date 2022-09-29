@@ -10,6 +10,8 @@ Az oktatásért felelős szervek hierarchikus rendszerében legalul foglalnak he
 
 ## 3. Vágyálomrendszer
 
+A projekt célja egy olyan alkalmazás, amely az alapfunkciók (+, -, *, /) mellett további műveleteket is tartalmaz, így elősegíti a tanulást. Látványos, színes felülettel rendelkezik az alkalmazás, hogy felkeltse a felhasználók figyelmét. 
+
 ## 4. Jelenlegi üzleti folyamatok modellje
 
 ## 5. Igényelt üzleti folyamatok modellje
