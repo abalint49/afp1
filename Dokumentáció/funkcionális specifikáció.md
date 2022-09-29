@@ -1,6 +1,8 @@
 # Funkcionális specifikáció
 ## 1. Jelenlegi helyzet leírása
 
+Az oktatásért felelős szervek hierarchikus rendszerében legalul foglalnak helyet az iskolák. Ebből adódóan mi kifejlesztettük az iskolák segítésére ezt az alkalmazást a tanárok és diákok részére egyaránt.
+
 ## 2. Vágyállomrendszer leírása
 
 ## 3. Jelenlegi üzleti folyamatok modellje
