@@ -42,7 +42,8 @@
                 android:insetBottom="5dp"
                 android:text="1"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button1"/>
 
             <Button
                 android:id="@+id/button2"
@@ -54,7 +55,8 @@
                 android:insetBottom="5dp"
                 android:text="2"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button2"/>
 
             <Button
                 android:id="@+id/button3"
@@ -66,7 +68,8 @@
                 android:insetBottom="5dp"
                 android:text="3"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button3" />
 
             <Button
                 android:id="@+id/buttonPlus"
@@ -78,7 +81,8 @@
                 android:insetBottom="5dp"
                 android:text="+"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="ButtonPlus" />
         </TableRow>
 
         <TableRow
@@ -96,7 +100,8 @@
                 android:insetBottom="5dp"
                 android:text="4"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button4" />
 
             <Button
                 android:id="@+id/button5"
@@ -108,7 +113,8 @@
                 android:insetBottom="5dp"
                 android:text="5"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button5" />
 
             <Button
                 android:id="@+id/button6"
@@ -120,7 +126,8 @@
                 android:insetBottom="5dp"
                 android:text="6"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button6" />
 
             <Button
                 android:id="@+id/buttonMinus"
@@ -132,7 +139,8 @@
                 android:insetBottom="5dp"
                 android:text="-"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="ButtonMinus" />
 
         </TableRow>
 
@@ -151,7 +159,8 @@
                 android:insetBottom="5dp"
                 android:text="7"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button7" />
 
             <Button
                 android:id="@+id/button8"
@@ -163,7 +172,8 @@
                 android:insetBottom="5dp"
                 android:text="8"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button8" />
 
             <Button
                 android:id="@+id/button9"
@@ -175,7 +185,8 @@
                 android:insetBottom="5dp"
                 android:text="9"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button9" />
 
             <Button
                 android:id="@+id/buttonMultiply"
@@ -187,7 +198,8 @@
                 android:insetBottom="5dp"
                 android:text="*"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="ButtonMultiply" />
         </TableRow>
 
         <TableRow
@@ -205,7 +217,8 @@
                 android:insetBottom="5dp"
                 android:text="0"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="Button0" />
 
             <Button
                 android:id="@+id/buttonTenth"
@@ -217,7 +230,8 @@
                 android:insetBottom="5dp"
                 android:text=","
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="ButtonFunc" />
 
             <Button
                 android:id="@+id/buttonAnsware"
@@ -229,7 +243,8 @@
                 android:insetLeft="5dp"
                 android:insetTop="5dp"
                 android:insetBottom="5dp"
-                android:insetRight="5dp" />
+                android:insetRight="5dp"
+                android:onClick="ButtonAnsware" />
 
             <Button
                 android:id="@+id/buttonDevide"
@@ -241,7 +256,8 @@
                 android:insetBottom="5dp"
                 android:text="/"
                 android:textAlignment="center"
-                android:textSize="48sp" />
+                android:textSize="48sp"
+                android:onClick="ButtonDevide" />
         </TableRow>
 
     </TableLayout>
