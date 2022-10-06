@@ -23,6 +23,8 @@ Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, me
 
 ## 6. Használati esetek
 
+A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.
+
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
 ## 8. Képernyőtervek
