@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="332dp"
         android:layout_height="62dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginTop="72dp"
         android:lineSpacingExtra="24sp"
         android:textAlignment="textEnd"
         android:textSize="48sp"
@@ -261,5 +261,14 @@
         </TableRow>
 
     </TableLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="60dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
