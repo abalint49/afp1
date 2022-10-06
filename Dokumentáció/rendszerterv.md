@@ -62,9 +62,15 @@ A rendszer célja, hogy a felhasználónak ne kelljen fejben számolnia (összea
 
 ### Vásárolt softwarekomponensek és külső rendszerek
 
+Nincsenek megvásárolt komponenseink.
+
 ### Hardver topológia
 
+Az alkalmazás Android (8.0, vagy újabb), hordozható eszközökre (okostelefonok,táblagépek) készül.
+
 ### Fizikai alrendszerek
+
+-
 
 ### Fejlesztő eszközök
 	Android Studio
@@ -102,7 +108,7 @@ például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával 
 
 ## 12. Telepítési terv
 
-Fizikai telepítési terv: 
+Fizikai telepítési terv:
 
 Szoftver telepítési terv:
 
