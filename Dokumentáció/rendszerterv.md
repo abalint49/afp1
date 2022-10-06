@@ -66,11 +66,11 @@ Nincsenek megvásárolt komponenseink.
 
 ### Hardver topológia
 
-Az alkalmazás Android (8.0, vagy újabb), hordozható eszközökre (okostelefonok,táblagépek) készül.
+Az alkalmazás Android (8.0, vagy újabb) hordozható eszközökre (okostelefonok,táblagépek) készül.
 
 ### Fizikai alrendszerek
 
--
+Nincsennek fizikai alrendszerek
 
 ### Fejlesztő eszközök
 	Android Studio
