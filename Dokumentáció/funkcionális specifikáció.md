@@ -48,5 +48,5 @@ Az alkalmazás Android 8.0 vagy újabb verziót futtató készülékeken haszná
 
 (+): Az összeadás segítségével, két számból összeget képezünk.\
 (-): A kivonás művelete során kivonjuk az egyik számot a másik számból.\
-(*): A szorzás vagy sokszorozás, a számtani alapműveletek egyike. Ha a és b pozitív egész számokat jelentenek, akkor b-t megszorozni a-val annyit tesz, mint alkotni egy összeget, amelyet röviden ab-vel szokás megjelölni. A b számot, amelyet ezen összeg előállítása végett a-szor tettünk összeadandónak, sokszorozandónak vagy szorzandónak, az a számot sokszorozónak vagy szorzónak, az eredményül nyert összeget pedig szorzatnak nevezzük.\
+(x): A szorzás vagy sokszorozás, a számtani alapműveletek egyike. Ha a és b pozitív egész számokat jelentenek, akkor b-t megszorozni a-val annyit tesz, mint alkotni egy összeget, amelyet röviden ab-vel szokás megjelölni. A b számot, amelyet ezen összeg előállítása végett a-szor tettünk összeadandónak, sokszorozandónak vagy szorzandónak, az a számot sokszorozónak vagy szorzónak, az eredményül nyert összeget pedig szorzatnak nevezzük.\
 (/): Az osztás a számtani alapműveletek egyike. A szorzás megfordítása. Ha c*b=a és b!=0 akkor a-t b-vel osztva visszakapjuk c-t.
