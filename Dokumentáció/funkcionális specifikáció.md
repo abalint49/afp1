@@ -27,6 +27,8 @@ A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, ne
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
+A felhasználó kettő vagy több valós számmal végezhet alap matematikai műveleteket (+, -, *, /), melyek megfelelő sorrendben történő megadása során az alkalmazás megadja számunkra a művelet végeredményét.
+
 ## 8. Képernyőtervek
 
 ![képnév](gitlink ahol a kép van)
