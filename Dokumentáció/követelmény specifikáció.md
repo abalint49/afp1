@@ -30,3 +30,4 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 | K6 | Funkció | Egyenlő | A számológép kijelzi a műveletek eredményét | 
 
 ## 7. Fogalomtár
+Reszponzív felület: Mobilon, Tableten, PC-n (csak emulátorral használható) igazodik a képernyőhöz a felület mérete, azaz több eszközön is probléma nélkül üzemelhet.
