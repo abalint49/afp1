@@ -25,3 +25,4 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 | K1 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
 
 ## 7. Fogalomtár
+Reszponzív felület: Mobilon, Tableten, PC-n (csak emulátorral használható) igazodik a képernyőhöz a felület mérete, azaz több eszközön is probléma nélkül üzemelhet.
