@@ -13,6 +13,8 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 
 ## 4. Igényelt üzleti folyamatok modellje
 
+Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, mely a belépést követően, alap felhasználói joggal rendelkezve is működtethető.
+
 ## 5. Követelménylista
 
 | Id | Modul | Név | Leírás |
@@ -20,6 +22,8 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 | K1 | ...| ... | ... |
 
 ## 6. Használati esetek
+
+A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 

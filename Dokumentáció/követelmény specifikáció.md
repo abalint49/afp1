@@ -22,6 +22,6 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 
 | Id | Modul | Név | Leírás |
 | :---: | --- | --- | --- |
-| K1 | ... | ... | ... |
+| K1 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
 
 ## 7. Fogalomtár
