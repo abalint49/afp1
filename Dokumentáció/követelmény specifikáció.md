@@ -23,5 +23,11 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 | Id | Modul | Név | Leírás |
 | :---: | --- | --- | --- |
 | K1 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
+| K2 | Funkció | Összeadás | A számológép 2 és több érték összeadására képes |
+| K3 | Funkció | Kivonás | A számológép 2 és több érték kivonására képes |
+| K4 | Funkció | Szorzás | A számológép 2 és több érték szorzására képes | 
+| K5 | Funkció | Osztás | A számológép 2 és több érték osztására képes |  
+| K6 | Funkció | Egyenlő | A számológép kijelzi a műveletek eredményét | 
 
 ## 7. Fogalomtár
+Reszponzív felület: Mobilon, Tableten, PC-n (csak emulátorral használható) igazodik a képernyőhöz a felület mérete, azaz több eszközön is probléma nélkül üzemelhet.
