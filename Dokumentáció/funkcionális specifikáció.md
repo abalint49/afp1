@@ -19,7 +19,7 @@ Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, me
 
 | Id | Modul | Név | Leírás |
 | :---: | --- | --- | --- |
-| K1 | ...| ... | ... |
+| K1 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
 
 ## 6. Használati esetek
 
