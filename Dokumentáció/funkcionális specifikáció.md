@@ -13,6 +13,8 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 
 ## 4. Igényelt üzleti folyamatok modellje
 
+Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, mely a belépést követően, alap felhasználói joggal rendelkezve is működtethető.
+
 ## 5. Követelménylista
 
 | Id | Modul | Név | Leírás |
