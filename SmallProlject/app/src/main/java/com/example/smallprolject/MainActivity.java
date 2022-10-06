@@ -10,8 +10,9 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    boolean first = true;
+    State state = null;
     TextView text;
+    TextView text2;
 
     float a = 0;
     float b = 0;
@@ -21,72 +22,55 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         text = findViewById(R.id.textView);
+        text2 = findViewById(R.id.textView2);
         text.setText("0");
+        text2.setText("");
     }
 
 
     public void Button0(View view) {
-        /* TODO:
-            ButtonNum(0);
-         */
+
     }
 
     public void Button1(View view) {
         ButtonNum(1);
-        /* TODO:
-            ButtonNum(1);
-         */
     }
 
     public void Button2(View view) {
-        /* TODO:
-            ButtonNum(2);
-         */
     }
 
     public void Button3(View view) {
-        /* TODO:
-            ButtonNum(3);
-         */
     }
 
     public void Button4(View view) {
-        /* TODO:
-            ButtonNum(4);
-         */
     }
 
     public void Button5(View view) {
-        /* TODO:
-            ButtonNum(5);
-         */
     }
 
     public void Button6(View view) {
-        /* TODO:
-            ButtonNum(6);
-         */
     }
 
     public void Button7(View view) {
-        /* TODO:
-            ButtonNum(7);
-         */
     }
 
     public void Button8(View view) {
-        /* TODO:
-            ButtonNum(8);
-         */
     }
 
     public void Button9(View view) {
-        /* TODO:
-            ButtonNum(9);
-         */
     }
 
     public void ButtonPlus(View view) {
+        if(state == null)
+        {
+            state = State.plus;
+            text2.setText(a+"+");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonMinus(View view) {
@@ -106,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void ButtonNum(int num)
     {
-        if(first){
+        if(state == null){
             a = a * 10 + num;
             text.setText(String.valueOf(a));
         }
@@ -114,7 +98,42 @@ public class MainActivity extends AppCompatActivity {
             b = b * 10 + num;
             text.setText(String.valueOf(a));
         }
+    }
 
-
+    public void calculate()
+    {
+        switch (state)
+        {
+            case plus:
+                a = a + b;
+                b = 0;
+                text.setText(b+"");
+                state = State.plus;
+                text2.setText(a+"+");
+                break;
+            case minus:
+                a = a - b;
+                b = 0;
+                text.setText(b+"");
+                state = State.minus;
+                text2.setText(a+"+");
+                break;
+            case multiply:
+                a = a * b;
+                b = 0;
+                text.setText(b+"");
+                state = State.multiply;
+                text2.setText(a+"+");
+                break;
+            case devide:
+                a = a / b;
+                b = 0;
+                text.setText(b+"");
+                state = State.devide;
+                text2.setText(a+"+");
+                break;
+            default:
+                break;
+        }
     }
 }
