@@ -36,7 +36,7 @@ A felhasználó kettő vagy több valós számmal végezhet alap matematikai mű
 
 ## 8. Képernyőtervek
 
-![képnév](gitlink ahol a kép van)
+![képernyőkép.jpg](https://github.com/abalint49/afp1/blob/main/Dokument%C3%A1ci%C3%B3/k%C3%A9perny%C3%B6k%C3%A9p/k%C3%A9perny%C5%91k%C3%A9p.jpg)
 
 ## 9. Forgatókönyvek
 
