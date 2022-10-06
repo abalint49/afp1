@@ -1,6 +1,7 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
+A rendszer célja, hogy a felhasználónak ne kelljen fejben számolnia (összeadás, kivonás, szorzás, osztás), hanem a rendszer a megadott adatok alapján elvégezze a műveletet. A rendszer könnyen kezelhető, és mivel android felületre készült, mobiltelefonon és android készülékeken bárhol használható.
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelőségek:
