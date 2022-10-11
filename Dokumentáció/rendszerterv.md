@@ -102,6 +102,16 @@ Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
+Teszt #01 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #02 | 3 gomb megnyomása | képernyőn megjeleniik egy 2 | képernyün megjelent egy 2 | Nem találtam problémát.
+Teszt #03 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #04 | 4 gomb megnyomása | képernyőn megjeleniik egy 4 | képernyün megjelent egy 4 | Nem találtam problémát.
+Teszt #05 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #06 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #07 | 7 gomb megnyomása | képernyőn megjeleniik egy 7 | képernyün megjelent egy 7 | Nem találtam problémát.
+Teszt #08 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #09 | 9 gomb megnyomása | képernyőn megjeleniik egy 9 | képernyün megjelent egy 9 | Nem találtam problémát.
+Teszt #10 | 0 gomb megnyomása | képernyőn megjeleniik egy 0 | képernyün megjelent egy 0 | Nem találtam problémát.
 
 ## 13. Karbantartási terv
 
