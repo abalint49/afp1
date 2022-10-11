@@ -45,9 +45,31 @@ Az alkalmazás Android 8.0 vagy újabb verziót futtató készülékeken haszná
 
 ## 10. Funkció - követelmény megfeleltetése
 
-| Id | Követelmény | Funkció |
-| :---: | --- | --- |
-| K4 | ... | ... |
+### Funkcionális követelmények
+
+   | Id | Modul | Név | Leírás |
+   | :---: | --- | --- | --- |   
+   | K01 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
+   | K02 | Funkció | Összeadás | A számológép 2 és több érték összeadására képes |
+   | K03 | Funkció | Kivonás | A számológép 2 és több érték kivonására képes |
+   | K04 | Funkció | Szorzás | A számológép 2 és több érték szorzására képes | 
+   | K05 | Funkció | Osztás | A számológép 2 és több érték osztására képes |  
+   | K06 | Funkció | Egyenlő | A számológép kijelzi a műveletek eredményét |
+
+### Nemfunkcionális követelmények
+
+   | Id | Modul | Név | Leírás |
+   | :---: | --- | --- | --- |
+   | K07 | Funkció | 0 | jelenlegi szám*10 + 0 |
+   | K08 | Funkció | 1 | jelenlegi szám*10 + 1 |
+   | K09 | Funkció | 2 | jelenlegi szám*10 + 2 |
+   | K10 | Funkció | 3 | jelenlegi szám*10 + 3 |
+   | K11 | Funkció | 4 | jelenlegi szám*10 + 4 |
+   | K12 | Funkció | 5 | jelenlegi szám*10 + 5 |
+   | K13 | Funkció | 6 | jelenlegi szám*10 + 6 |
+   | K14 | Funkció | 7 | jelenlegi szám*10 + 7 |
+   | K15 | Funkció | 8 | jelenlegi szám*10 + 8 |
+   | K16 | Funkció | 9 | jelenlegi szám*10 + 9 |
 
 ## 11 Fogalomszótár
 
