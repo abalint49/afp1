@@ -1,86 +1,91 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
-A rendszer célja, hogy a felhasználónak ne kelljen fejben számolnia (összeadás, kivonás, szorzás, osztás), hanem a rendszer a megadott adatok alapján elvégezze a műveletet. A rendszer könnyen kezelhető, és mivel android felületre készült, mobiltelefonon és android készülékeken bárhol használható.
+   A projekt célja egy olyan alkalmazás, amely az alapfunkciók (+, -, *, /) mellett további műveleteket is tartalmaz, így elősegíti a tanulást. Látványos, színes felülettel rendelkezik az alkalmazás, hogy felkeltse a felhasználók figyelmét. 
+
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelőségek:
-   * Scrum masters:
-   * Product owner: 
-   * Üzleti szereplő:
+   * Scrum masters: Kiss Dorina Hedvig
+   * Product owner: Kiss Dorina Hedvig
+   * Üzleti szereplő: Kiss Dorina Hedvig
      
 ### 2.2 Projektmunkások és felelőségek:
-   * Frontend:
-   * Backend:
-   * Tesztelés:
+   * Frontend:Anka Bálint Kristóf
+   * Backend:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik
+   * Tesztelés:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik
      
 ### 2.3 Ütemterv:
 
-|Funkció                  | Feladat                                | Prioritás | Becslés (nap) | Aktuális becslés (nap) | Eltelt idő (nap) | Becsült idő (nap) |
-|-------------------------|----------------------------------------|-----------|---------------|------------------------|------------------|---------------------|
-|Követelmény specifikáció |Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |             
-|Funkcionális specifikáció|Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |
-|Rendszerterv             |Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |
-|Program                  |Képernyőtervek elkészítése              |         2 |             1 |                      1 |                1 |                   1 |
-|Program                  |Prototípus elkészítése                  |         3 |             8 |                      8 |                8 |                   8 |
-|Program                  |Alapfunkciók elkészítése                |         3 |             8 |                      8 |                8 |                   8 |
-|Program                  |Tesztelés                               |         4 |             2 |                      2 |                2 |                   2 |
+   |Funkció                  | Feladat                                | Prioritás | Becslés (nap) | Aktuális becslés (nap) | Eltelt idő (nap) | Becsült idő (nap) |
+   |-------------------------|----------------------------------------|-----------|---------------|------------------------|------------------|---------------------|
+   |Követelmény specifikáció |Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |             
+   |Funkcionális specifikáció|Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |
+   |Rendszerterv             |Megírás                                 |         1 |             1 |                      1 |                1 |                   1 |
+   |Program                  |Képernyőtervek elkészítése              |         2 |             1 |                      1 |                1 |                   1 |
+   |Program                  |Prototípus elkészítése                  |         3 |             8 |                      8 |                8 |                   8 |
+   |Program                  |Alapfunkciók elkészítése                |         3 |             8 |                      8 |                8 |                   8 |
+   |Program                  |Tesztelés                               |         4 |             2 |                      2 |                2 |                   2 |
 
 ### 2.4 Mérföldkövek:
+   * Dokumnetáció befejezése
+   * Fejlesztés megkezdése
+   * Fejlesztés befejezése
    * Prototípus átadása
 
 ## 3. Üzleti folyamatok modellje
 
-### 3.1 Üzleti szereplők
-
-### 3.2 Üzleti folyamatok
+   ![Névtelen.jpg](https://github.com/abalint49/afp1/blob/main/Dokumentáció/képernyökép/Névtelen.jpg)
 
 ## 4. Követelmények
 
 ### Funkcionális követelmények
 
-| ID | Megnevezés | Leírás |
-| --- | --- | --- |
-| K1 | ... | ... |
+   | Id | Modul | Név | Leírás |
+   | :---: | --- | --- | --- |
 
 ### Nemfunkcionális követelmények
 
-| ID | Megnevezés | Leírás |
-| --- | --- | --- |
-| K4 | ... | ... |
+   | Id | Modul | Név | Leírás |
+   | :---: | --- | --- | --- |
 
 ### Támogatott eszközök
 	Android Studio
 
 ## 5. Funkcionális terv
+   Fenhaszáló
+      - Tud számolni(+,-,*,/)
 
 ### 5.1 Rendszerszereplők
-
-### 5.2 Menühierarchiák
+   Felhasználó
 
 ## 6. Fizikai környezet
-
-### Vásárolt softwarekomponensek és külső rendszerek
-
-Nincsenek megvásárolt komponenseink.
+   *Android
 
 ### Hardver topológia
-
-Az alkalmazás Android (8.0, vagy újabb) hordozható eszközökre (okostelefonok,táblagépek) készül.
-
-### Fizikai alrendszerek
-
-Nincsennek fizikai alrendszerek
+   *Android 8.0(Oreo)
 
 ### Fejlesztő eszközök
-	Android Studio
+	*Android Studio
 
 
 ## 8. Architekturális terv
 
-### A program elérése, kezelése
+   XML frontendet Java kód szolgálja ki. aDatbázisra nincs szükség.
 
 ## 10. Implementációs terv
+
+   Android:
+   A  Android felület főként Java és XML nyelven fog készülni.
+   Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és
+   úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság,
+   és könnyebb bővítés érdekében.
+
+## 12. Telepítési terv
+
+1. Adja meg a szükséges engedélyeket az Android rendszerben (Beállítások -> Biztonság -> Ismeretlen források)
+2. Csatlakoztassa a mobilkészüléket a számítógéphez egy adatkábel segítségével. Ezután elképzelhető, hogy a telefon értesítési felületén engedélyezni kell az adatátvitelt. Majd ezt követően másolja a telefon egy tetszőleges mappájába a letöltött APK fájlt.
+3. Nyissa meg a telefon fájlkezelőjét, és keresse meg a könyvtárat, amelybe a fájlt másolta. Ezután bökjön az APK fájlra, majd válassza a Telepítés opciót.
 
 ## 11. Tesztterv
 
@@ -88,12 +93,6 @@ A tesztelések célja a rendszer és komponensei funkcionalitásának teljes viz
 ellenőrzése a rendszer által megvalósított üzleti szolgáltatások verifikálása.
 A teszteléseket a fejlesztői csapat minden tagja elvégzi.
 Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
-
-### Tesztesetek
-
- | Teszteset | Elvárt eredmény | 
- |-----------|-----------------| 
- | ... | ... |
 
 ### A tesztelési jegyzőkönyv kitöltésére egy sablon:
 
@@ -103,25 +102,11 @@ Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával sikeresen regisztrálni tud  | A felhasználó sikeresen regisztrált | Nem találtam problémát.
-... | ... | ... | ... | ...
-
-## 12. Telepítési terv
-
-Fizikai telepítési terv:
-
-Szoftver telepítési terv:
-
-1. Adja meg a szükséges engedélyeket az Android rendszerben (Beállítások -> Biztonság -> Ismeretlen források)
-2. Csatlakoztassa a mobilkészüléket a számítógéphez egy adatkábel segítségével. Ezután elképzelhető, hogy a telefon értesítési felületén engedélyezni kell az adatátvitelt. Majd ezt követően másolja a telefon egy tetszőleges mappájába a letöltött APK fájlt.
-3. Nyissa meg a telefon fájlkezelőjét, és keresse meg a könyvtárat, amelybe a fájlt másolta. Ezután bökjön az APK fájlra, majd válassza a Telepítés opciót.
 
 ## 13. Karbantartási terv
 
 Fontos ellenőrizni:
-
-- Például hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás.\
-Illetve idő elteltével új műveleteket is hozzá lehet adni az alkalmazáshoz.
+...
 
 Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
 Ha hibát talált, mielőbb orvosolni kell, lehet az:
