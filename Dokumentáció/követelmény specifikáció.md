@@ -17,8 +17,7 @@ A projekt célja egy olyan alkalmazás, amely az alapfunkciók (+, -, *, /) mell
 A mai világban az oktatás nem használja ki a már meglévő technológiákat arra, hogy a tanulást sokkal szórakoztatóbbá tegye. A jelenlegi világban a fiatalok egyre kevésbé használják a "klasszikus" zsebszámológépet, ezért mi alternatív módszert ajánlunk fel.
 
 ## 5. Igényelt üzleti folyamatok modellje
-
-    ![Névtelen.jpg](https://github.com/abalint49/afp1/blob/main/Dokumentáció/képernyökép/Névtelen.jpg)
+![Névtelen.jpg](https://github.com/abalint49/afp1/blob/main/Dokumentáció/képernyökép/Névtelen.jpg)
 
 ## 6. Követelménylista
 
