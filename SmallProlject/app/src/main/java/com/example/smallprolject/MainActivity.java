@@ -93,6 +93,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ButtonDevide(View view) {
+        if(state == null)
+        {
+            state=State.devide;
+            text2.setText(a+"/");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonAnsware(View view) {
