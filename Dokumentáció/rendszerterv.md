@@ -42,7 +42,13 @@
 ### Funkcionális követelmények
 
    | Id | Modul | Név | Leírás |
-   | :---: | --- | --- | --- |
+   | :---: | --- | --- | --- |   
+   | K01 | android alkalmazás | számológép | A számológép a matematikai számitások,számolások meggyorsítására szolgáló eszköz. |
+   | K02 | Funkció | Összeadás | A számológép 2 és több érték összeadására képes |
+   | K03 | Funkció | Kivonás | A számológép 2 és több érték kivonására képes |
+   | K04 | Funkció | Szorzás | A számológép 2 és több érték szorzására képes | 
+   | K05 | Funkció | Osztás | A számológép 2 és több érték osztására képes |  
+   | K06 | Funkció | Egyenlő | A számológép kijelzi a műveletek eredményét |
 
 ### Nemfunkcionális követelmények
 
