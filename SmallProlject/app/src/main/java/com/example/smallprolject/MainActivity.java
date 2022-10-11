@@ -74,6 +74,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ButtonMinus(View view) {
+        if(state == null)
+        {
+            state = State.minus;
+            text2.setText(a+"-");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonMultiply(View view) {
