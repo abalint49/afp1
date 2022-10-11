@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void Button0(View view) {
+    public void Button0(View view) { ButtonNum(0);
 
     }
 
@@ -36,10 +36,10 @@ public class MainActivity extends AppCompatActivity {
         ButtonNum(1);
     }
 
-    public void Button2(View view) {
+    public void Button2(View view) { ButtonNum(2);
     }
 
-    public void Button3(View view) {
+    public void Button3(View view) { ButtonNum(3);
     }
 
     public void Button4(View view) {
