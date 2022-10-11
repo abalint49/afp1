@@ -112,9 +112,9 @@ Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
 
 ### A tesztelési jegyzőkönyv kitöltésére egy sablon:
 
-**Tesztelő:** Vezetéknév Keresztnév
+**Tesztelő:** Anka Bálint Kristóf
 
-**Tesztelés dátuma:** Év.Hónap.Nap
+**Tesztelés dátuma:** 2022.10.11
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
