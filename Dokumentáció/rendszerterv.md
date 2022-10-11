@@ -54,6 +54,16 @@
 
    | Id | Modul | Név | Leírás |
    | :---: | --- | --- | --- |
+   | K07 | Funkció | 0 | jelenlegi szám*10 + 0 |
+   | K08 | Funkció | 1 | jelenlegi szám*10 + 1 |
+   | K09 | Funkció | 2 | jelenlegi szám*10 + 2 |
+   | K10 | Funkció | 3 | jelenlegi szám*10 + 3 |
+   | K11 | Funkció | 4 | jelenlegi szám*10 + 4 |
+   | K12 | Funkció | 5 | jelenlegi szám*10 + 5 |
+   | K13 | Funkció | 6 | jelenlegi szám*10 + 6 |
+   | K14 | Funkció | 7 | jelenlegi szám*10 + 7 |
+   | K15 | Funkció | 8 | jelenlegi szám*10 + 8 |
+   | K16 | Funkció | 9 | jelenlegi szám*10 + 9 |
 
 ### Támogatott eszközök
 	Android Studio
