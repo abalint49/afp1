@@ -52,12 +52,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Button7(View view) {
+        ButtonNum(7);
     }
 
     public void Button8(View view) {
+        ButtonNum(8);
     }
 
     public void Button9(View view) {
+        ButtonNum(9);
     }
 
     public void ButtonPlus(View view) {
