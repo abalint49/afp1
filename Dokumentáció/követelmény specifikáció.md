@@ -18,6 +18,8 @@ A mai világban az oktatás nem használja ki a már meglévő technológiákat 
 
 ## 5. Igényelt üzleti folyamatok modellje
 
+    ![Névtelen.jpg](https://github.com/abalint49/afp1/blob/main/Dokumentáció/képernyökép/Névtelen.jpg)
+
 ## 6. Követelménylista
 
 | Id | Modul | Név | Leírás |
