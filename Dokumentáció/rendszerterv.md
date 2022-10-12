@@ -49,11 +49,6 @@
    | K04 | Funkció | Szorzás | A számológép 2 és több érték szorzására képes | 
    | K05 | Funkció | Osztás | A számológép 2 és több érték osztására képes |  
    | K06 | Funkció | Egyenlő | A számológép kijelzi a műveletek eredményét |
-
-### Nemfunkcionális követelmények
-
-   | Id | Modul | Név | Leírás |
-   | :---: | --- | --- | --- |
    | K07 | Funkció | 0 | jelenlegi szám*10 + 0 |
    | K08 | Funkció | 1 | jelenlegi szám*10 + 1 |
    | K09 | Funkció | 2 | jelenlegi szám*10 + 2 |
@@ -64,6 +59,13 @@
    | K14 | Funkció | 7 | jelenlegi szám*10 + 7 |
    | K15 | Funkció | 8 | jelenlegi szám*10 + 8 |
    | K16 | Funkció | 9 | jelenlegi szám*10 + 9 |
+
+### Nemfunkcionális követelmények
+
+   | Id | Megnevezés| Leírás |
+   | :---: | --- | --- | --- |
+   | K1 | Egyszerű, könnyen átlátható felület (Design) | Felhasználók számára könnyen kezelhető Android felület. |
+   | K2 | Sebesség | Alkalmazás gyorsan fut. |
 
 ### Támogatott eszközök
 	Android Studio
