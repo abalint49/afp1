@@ -43,12 +43,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Button4(View view) {
+        ButtonNum(4);
     }
 
     public void Button5(View view) {
+        ButtonNum(5);
     }
 
     public void Button6(View view) {
+        ButtonNum(6);
     }
 
     public void Button7(View view) {
@@ -89,7 +92,17 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void ButtonMultiply(View view) {
+     public void ButtonMultiply(View view) {
+        if(state == null)
+        {
+            state = State.multiply;
+            text2.setText(a+"*");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonDevide(View view) {
@@ -106,9 +119,23 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ButtonAnsware(View view) {
+        if (state != null)
+        {
+            calculate();
+            text.setText(a+"");
+            text2.setText("");
+            a = 0;
+            b = 0;
+            state = null;
+        }
     }
 
     public void ButtonFunc(View view) {
+        text.setText("0");
+        text2.setText("");
+        a = 0;
+        b = 0;
+        state = null;
     }
 
     public void ButtonNum(int num)
