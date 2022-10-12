@@ -41,6 +41,10 @@ A felhasználó kettő vagy több valós számmal végezhet alap matematikai mű
 ## 9. Forgatókönyvek
 
 A számológép segítségével alap- és magasabb szintű számítási műveleteket végezhet el.\
+- Először adja meg azt a számot, amellyel az adott matematikai számítást szeretné végezni, majd koppintson a kívánt műveleti jelre (+, -, *, /).\
+- Ezt követően adja meg a művelet második tényezőjét.\
+- Amennyiben több számmal szeretné elvégezni a számolást, ismételje meg az első és második lépéseket, ahányszor szükséges.
+- Végül a végeredmény kiíratásához koppintson az egyenlőség (=) jelre.
 Az alkalmazás Android 8.0 vagy újabb verziót futtató készülékeken használható.
 
 ## 10. Funkció - követelmény megfeleltetése
