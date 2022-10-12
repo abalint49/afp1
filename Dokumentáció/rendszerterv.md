@@ -129,6 +129,23 @@ Teszt #08 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün meg
 Teszt #09 | 9 gomb megnyomása | képernyőn megjeleniik egy 9 | képernyün megjelent egy 9 | Nem találtam problémát.
 Teszt #10 | 0 gomb megnyomása | képernyőn megjeleniik egy 0 | képernyün megjelent egy 0 | Nem találtam problémát.
 
+**Tesztelő 2:** Aranyi Patrik
+
+**Tesztelés dátuma 2:** 2022.10.12
+
+Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
+----------|--------------|---------------|----------|-----------
+Teszt #11 | 9-es gomb megnyomása | képernyőn megjelenik a 9-es | képernyőn megjelent a 9-es | Nem találtam problémát.
+Teszt #12 | 6-os gomb megnyomása | képernyőn megjelenik a 6-os | képernyőn megjelent a 6-os | Nem találtam problémát.
+Teszt #13 | 6-os és 7-es gomb megnyomása | képernyőn megjelenik a 67-es | képernyőn megjelent a 67-es | Nem találtam problémát.
+Teszt #14 | 2-es és 3-as gomb megnyomása | képernyőn megjelenik a 23-as | képernyőn megjelent a 23-as | Nem találtam problémát.
+Teszt #15 | 3 * 6 = gombok megnyomása | képernyőn megjelenik a 18-as | képernyőn megjelent a 18-as | Nem találtam problémát.
+Teszt #16 | 53 * 94 = gombok megnyomása | képernyőn megjelenik a 4982-es | képernyőn megjelent a 4982-es | Nem találtam problémát.
+Teszt #17 | 9 - 52 = gombok megnyomása | képernyőn megjelenik a -43-as | képernyőn megjelent a -43-as | Nem találtam problémát.
+Teszt #18 | 2594 + 355 = gombok megnyomása | képernyőn megjelenik a 2949-es | képernyőn megjelent a 2949-es | Nem találtam problémát.
+Teszt #19 | 75 / 5 = gombok megnyomása | képernyőn megjelenik a 15-ös | képernyőn megjelent a 15-ös | Nem találtam problémát.
+Teszt #20 | 27 / 3 = gombok megnyomása | képernyőn megjelenik a 9-es | képernyőn megjelent a 9-es | Nem találtam problémát.
+
 ## 13. Karbantartási terv
 
 Fontos ellenőrizni:
