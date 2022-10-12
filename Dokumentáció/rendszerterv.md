@@ -148,6 +148,23 @@ Teszt #18 | 2594 + 355 = gombok megnyomása | képernyőn megjelenik a 2949-es |
 Teszt #19 | 75 / 5 = gombok megnyomása | képernyőn megjelenik a 15-ös | képernyőn megjelent a 15-ös | Nem találtam problémát.
 Teszt #20 | 27 / 3 = gombok megnyomása | képernyőn megjelenik a 9-es | képernyőn megjelent a 9-es | Nem találtam problémát.
 
+**Tesztelő 3:** Kiss Bálint
+
+**Tesztelés dátuma 3:** 2022.10.12
+
+Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
+----------|--------------|---------------|----------|-----------
+Teszt #21 | 2 gomb megnyomása | képernyőn megjelenik a 2-es | képernyőn megjelent a 2-es | Nem találtam problémát.
+Teszt #22 | 5-ös és 2-es gomb megnyomása | képernyőn megjelenik az 52-es | képernyőn megjelent az 52-es | Nem találtam problémát.
+Teszt #23 | 8-as, 6-os és 1-es gomb megnyomása | képernyőn megjelenik a 861-es | képernyőn megjelent a 861-es | Nem találtam problémát.
+Teszt #24 | 8 / 2 = gombok megnyomása | képernyőn megjelenik a 2-es | képernyőn megjelent a 2-es | Nem találtam problémát.
+Teszt #25 | 91 + 6 = gombok megnyomása | képernyőn megjelenik a 97-es | képernyőn megjelent a 97-es | Nem találtam problémát.
+Teszt #26 | 88842 * 98 = gombok megnyomása | képernyőn megjelenik a 8706516-os | képernyőn megjelent a 8706516-os | Nem találtam problémát.
+Teszt #27 | 5-ös, 6-os, 2-es, és = gombok megnyomása | képernyőn megjelenik a 13-as | képernyőn megjelent a 13-as | Nem találtam problémát.
+Teszt #28 | 16 - 85 = gombok megnyomása | képernyőn megjelenik a -69-es | képernyőn megjelent a -69-es | Nem találtam problémát.
+Teszt #29 | 3-mas és C gombok megnyomása | képernyőn megjelenik 0 | képernyőn megjelent 0 | Nem találtam problémát.
+Teszt #30 | 74 / 3 = gombok megnyomása | képernyőn megjelenik 24.666... | képernyőn megjelent 24.666... | Nem találtam problémát.
+
 ## 13. Karbantartási terv
 
 Fontos ellenőrizni:
