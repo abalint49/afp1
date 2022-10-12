@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void Button0(View view) {
+    public void Button0(View view) { ButtonNum(0);
 
     }
 
@@ -36,28 +36,34 @@ public class MainActivity extends AppCompatActivity {
         ButtonNum(1);
     }
 
-    public void Button2(View view) {
+    public void Button2(View view) { ButtonNum(2);
     }
 
-    public void Button3(View view) {
+    public void Button3(View view) { ButtonNum(3);
     }
 
     public void Button4(View view) {
+        ButtonNum(4);
     }
 
     public void Button5(View view) {
+        ButtonNum(5);
     }
 
     public void Button6(View view) {
+        ButtonNum(6);
     }
 
     public void Button7(View view) {
+        ButtonNum(7);
     }
 
     public void Button8(View view) {
+        ButtonNum(8);
     }
 
     public void Button9(View view) {
+        ButtonNum(9);
     }
 
     public void ButtonPlus(View view) {
@@ -74,18 +80,62 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ButtonMinus(View view) {
+        if(state == null)
+        {
+            state = State.minus;
+            text2.setText(a+"-");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
-    public void ButtonMultiply(View view) {
+     public void ButtonMultiply(View view) {
+        if(state == null)
+        {
+            state = State.multiply;
+            text2.setText(a+"*");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonDevide(View view) {
+        if(state == null)
+        {
+            state=State.devide;
+            text2.setText(a+"/");
+            text.setText(b+"");
+        }
+        else
+        {
+            calculate();
+        }
     }
 
     public void ButtonAnsware(View view) {
+        if (state != null)
+        {
+            calculate();
+            text.setText(a+"");
+            text2.setText("");
+            a = 0;
+            b = 0;
+            state = null;
+        }
     }
 
     public void ButtonFunc(View view) {
+        text.setText("0");
+        text2.setText("");
+        a = 0;
+        b = 0;
+        state = null;
     }
 
     public void ButtonNum(int num)

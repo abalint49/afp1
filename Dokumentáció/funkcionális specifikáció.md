@@ -28,7 +28,9 @@ Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, me
 
 ## 6. Használati esetek
 
-A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.
+Általános/üzleti felhasználó: A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.\
+A szoftver segítségével alap matematikai számításokat végezhet el a használó személy egyszerűen és gyorsan.\
+Üzleti szempontok szerint is nagy segítséget biztosíthat az alkalmazás, az egyéb adminisztrációk, könyvelések, stb... során.
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
@@ -40,7 +42,11 @@ A felhasználó kettő vagy több valós számmal végezhet alap matematikai mű
 
 ## 9. Forgatókönyvek
 
-A számológép segítségével alap- és magasabb szintű számítási műveleteket végezhet el.\
+A számológép segítségével alap- és magasabb szintű számítási műveleteket végezhet el.
+- Először adja meg azt a számot, amellyel az adott matematikai számítást szeretné végezni, majd koppintson a kívánt műveleti jelre (+, -, *, /).
+- Ezt követően adja meg a művelet második tényezőjét.
+- Amennyiben több számmal szeretné elvégezni a számolást, ismételje meg az első és második lépéseket, ahányszor szükséges.
+- Végül a végeredmény kiíratásához koppintson az egyenlőség (=) jelre.
 Az alkalmazás Android 8.0 vagy újabb verziót futtató készülékeken használható.
 
 ## 10. Funkció - követelmény megfeleltetése
