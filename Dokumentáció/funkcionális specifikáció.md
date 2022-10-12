@@ -28,7 +28,9 @@ Egy egyszerűen és gyorsan használható grafikus alkalmazás létrehozása, me
 
 ## 6. Használati esetek
 
-A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.
+Általános/üzleti felhasználó: A szoftver teljeskörű működtetéséhez elegendő alap felhasználói jog, nem szükséges rendszergazdai, vagy admin hozzáférés.\
+A szoftver segítségével alap matematikai számításokat végezhet el a használó személy egyszerűen és gyorsan.\
+Üzleti szempontok szerint is nagy segítséget biztosíthat az alkalmazás, az egyéb adminisztrációk, könyvelések, stb... során.
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
