@@ -12,8 +12,8 @@
      
 ### 2.2 Projektmunkások és felelőségek:
    * Frontend:Anka Bálint Kristóf
-   * Backend:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik
-   * Tesztelés:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik
+   * Backend:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik, Kiss Bálint
+   * Tesztelés:Jánosik Vanessza, Kiss Bálint, Aranyi Patrik, Kiss Bálint
      
 ### 2.3 Ütemterv:
 
