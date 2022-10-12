@@ -63,7 +63,7 @@
 ### Nemfunkcionális követelmények
 
    | Id | Megnevezés| Leírás |
-   | :---: | --- | --- | --- |
+   | :---: | --- | --- |
    | K1 | Egyszerű, könnyen átlátható felület (Design) | Felhasználók számára könnyen kezelhető Android felület. |
    | K2 | Sebesség | Alkalmazás gyorsan fut. |
 
