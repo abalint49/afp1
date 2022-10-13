@@ -165,6 +165,23 @@ Teszt #28 | 16 - 85 = gombok megnyomása | képernyőn megjelenik a -69-es | ké
 Teszt #29 | 3-mas és C gombok megnyomása | képernyőn megjelenik 0 | képernyőn megjelent 0 | Nem találtam problémát.
 Teszt #30 | 74 / 3 = gombok megnyomása | képernyőn megjelenik 24.666... | képernyőn megjelent 24.666... | Nem találtam problémát.
 
+**Tesztelő:** Jánosik Vanessza
+
+**Tesztelés dátuma:** 2022.10.13
+
+Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
+----------|--------------|---------------|----------|-----------
+Teszt #31 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #32 | 3 gomb megnyomása | képernyőn megjeleniik egy 2 | képernyün megjelent egy 2 | Nem találtam problémát.
+Teszt #33 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #34 | 4 gomb megnyomása | képernyőn megjeleniik egy 4 | képernyün megjelent egy 4 | Nem találtam problémát.
+Teszt #35 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #36 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #37 | 7 gomb megnyomása | képernyőn megjeleniik egy 7 | képernyün megjelent egy 7 | Nem találtam problémát.
+Teszt #38 | 1 gomb megnyomása | képernyőn megjeleniik egy 1 | képernyün megjelent egy 1 | Nem találtam problémát.
+Teszt #39 | 9 gomb megnyomása | képernyőn megjeleniik egy 9 | képernyün megjelent egy 9 | Nem találtam problémát.
+Teszt #40 | 0 gomb megnyomása | képernyőn megjeleniik egy 0 | képernyün megjelent egy 0 | Nem találtam problémát.
+
 ## 13. Karbantartási terv
 
 Fontos ellenőrizni:
